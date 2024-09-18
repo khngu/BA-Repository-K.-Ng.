@@ -24,8 +24,9 @@ Dieses Repository enthält den Code für einen Prototyp einer KI-gestützten Bri
 * **ESP32 Firmware (C++):** Steuert die Hardware, erfasst Bilder und sendet diese an den Flask Server.
 * **KI-Dienste:**
     * **Google Cloud Text-to-Speech API:** Wandelt Text in Sprache um.
-    * **OpenAI API:** Ermöglicht Text- und Objekterkennung sowie Chatbot-Funktionalität.
-    * **Vosk API:** Offline-Spracherkennung.
+    * **OpenAI GPT API:** Ermöglicht Text- und Objekterkennung sowie Chatbot-Funktionalität.
+    * **Vosk API:** Implementiert für VAD.
+    * **OpenAI Whisper API:** Spracherkennung und Transkribierung.
 
 ## Installation und Ausführung
 
