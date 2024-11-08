@@ -1,6 +1,6 @@
 # KI-gestützte Brille für Sehbeeinträchtigte
 
-Dieses Repository enthält den Code für einen Prototyp einer KI-gestützten Brille, die darauf abzielt, die Alltagsmobilität von Menschen mit Sehbehinderungen zu verbessern. Die Brille nutzt Bildverarbeitung, Spracherkennung und -synthese, um dem Benutzer Informationen über seine Umgebung bereitzustellen.
+Dieses Repository beinhaltet den Quellcode eines Prototyps für eine KI-gestützte Brille, entwickelt von Khac Trong Nguyen im Rahmen seiner Bachelorarbeit in Digitale Medien an der HAW Fulda. Ziel dieses Projekts ist es, die Mobilität von sehbehinderten Menschen durch die Bereitstellung von Umgebungsinformationen mittels Bildverarbeitung, Spracherkennung und -synthese zu verbessern.
 
 ## Funktionen
 
